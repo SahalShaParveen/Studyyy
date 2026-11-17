@@ -1,0 +1,1 @@
+- Why are we using Capacitors on the power rails? What purpose do those serve?
