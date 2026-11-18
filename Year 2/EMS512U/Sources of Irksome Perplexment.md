@@ -1,1 +1,4 @@
-- Why are we using Capacitors on the power rails? What purpose do those serve?
+- **Why are we using Capacitors on the power rails? What purpose do those serve?**
+	- Release stored charge when voltage temporarily drops. I.e, reduces supply voltage fluctuations. Helps prevent unstable operation of the 555 timers and servo. 
+- **Is the "Some basic questions in relation to the lab, supposed to be answered in the notebooks or the group report?"**
+- 

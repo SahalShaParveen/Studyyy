@@ -1,0 +1,52 @@
+# EMS515U
+- [ ] Week 1 
+	- [x] Vectors Review
+	- [ ] Two Body Dynamics (*soft deadline:* `= (date("2026-11-19") - date(today)).days`)
+- [ ] Week 2 
+	- [ ] Elliptical Orbits (*soft deadline:* `= (date("2026-11-21") - date(today)).days`)
+- [ ] Week 3 
+- [ ] Week 4 
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 8
+- [ ] Week 9 
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+# EMS512U 
+- [ ] Week 1 
+- [ ] Week 2 
+- [ ] Week 3 
+- [ ] Week 4 
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 8
+- [ ] Week 9 
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+# EMS516U
+- [x] Week 1 
+- [x] Week 2 
+- [x] Week 3 
+- [x] Week 4 
+- [x] Week 5
+- [x] Week 6
+- [ ] Week 8
+- [ ] Week 9 
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+
+# ECS533U
+- [x] Week 1 
+- [x] Week 2 
+- [x] Week 3 
+- [x] Week 4 
+- [x] Week 5
+- [ ] Week 6
+- [ ] Week 8
+- [ ] Week 9 
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12

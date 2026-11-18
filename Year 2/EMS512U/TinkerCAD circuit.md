@@ -1,0 +1,1 @@
+![[tinkerCAD Circuit.png]]
